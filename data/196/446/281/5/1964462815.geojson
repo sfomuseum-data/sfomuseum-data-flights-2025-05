@@ -1,0 +1,72 @@
+{
+  "id": 1964462815,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-04",
+    "date:inception_upper": "2025-05-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2025-05-04",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA127",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CLT",
+    "flysfo:scheduled_timestamp": 1746343260,
+    "flysfo:timestamp": 1746343260,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.220744,-80.942777,37.617990",
+    "geom:latitude": 36.419367,
+    "geom:longitude": -101.65686,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102528659,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250504-D-AAL-127",
+    "sfomuseum:flight_number": [
+      "AAL127",
+      "AA127"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1746462029,
+    "wof:geomhash": "6d7202e034534315a50103622977ef57",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964462815,
+        "flight_id": 1964462815
+      }
+    ],
+    "wof:id": 1964462815,
+    "wof:involves": [
+      102528659,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1746462029,
+    "wof:name": "AA127 (SFO-CLT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.220744,
+    -80.942777,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}
+}
