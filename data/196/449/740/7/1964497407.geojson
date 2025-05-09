@@ -1,0 +1,72 @@
+{
+  "id": 1964497407,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-08",
+    "date:inception_upper": "2025-05-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "PR",
+    "flysfo:date": "2025-05-08",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "PR15",
+    "flysfo:gate": "",
+    "flysfo:journey": "KEF-SFO",
+    "flysfo:scheduled_timestamp": 1746773400,
+    "flysfo:timestamp": 1746773400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-22.585315,63.983414",
+    "geom:latitude": 50.800702,
+    "geom:longitude": -72.478129,
+    "iata:airline": "PR",
+    "icao:airline": "PAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285015,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102553077,
+    "sfomuseum:flight_id": "20250508-A-PAL-15",
+    "sfomuseum:flight_number": [
+      "PAL15",
+      "PR15"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1746807233,
+    "wof:geomhash": "e575d5d027a20282afeb027e73d10962",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964497407,
+        "flight_id": 1964497407
+      }
+    ],
+    "wof:id": 1964497407,
+    "wof:involves": [
+      102527513,
+      102553077,
+      1159285015,
+      -1
+    ],
+    "wof:lastmodified": 1746807233,
+    "wof:name": "PR15 (KEF-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -22.585315,
+    63.983414
+  ],
+  "geometry": {"coordinates":[[-22.585315,63.983414],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
