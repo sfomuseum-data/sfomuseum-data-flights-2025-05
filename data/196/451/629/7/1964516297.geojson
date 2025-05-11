@@ -1,0 +1,78 @@
+{
+  "id": 1964516297,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-10",
+    "date:inception_upper": "2025-05-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QF",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "5508",
+    "flysfo:date": "2025-05-10",
+    "flysfo:estimated_timestamp": 1746900360,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "QF3241",
+    "flysfo:gate": "",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1746898560,
+    "flysfo:timestamp": 1746900360,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "QF",
+    "iata:base_airline": "",
+    "icao:airline": "QFA",
+    "icao:base_airline": "BAW",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285043,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20250510-A-BAW-5508",
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20250510-A-QFA-3241",
+    "sfomuseum:flight_number": [
+      "QFA3241",
+      "QF3241"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1746980008,
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964516297,
+        "flight_id": 1964516297
+      }
+    ],
+    "wof:id": 1964516297,
+    "wof:involves": [
+      102527513,
+      102533631,
+      1159285043,
+      -1,
+      1159284021
+    ],
+    "wof:lastmodified": 1746980008,
+    "wof:name": "QF3241 (ORD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
+  ],
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
