@@ -1,0 +1,72 @@
+{
+  "id": 1964537555,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-12",
+    "date:inception_upper": "2025-05-12",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-12",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2025-05-12",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS1235",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SJC",
+    "flysfo:scheduled_timestamp": 1747089300,
+    "flysfo:timestamp": 1747089300,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.363728,-121.928755,37.617990",
+    "geom:latitude": 37.490859,
+    "geom:longitude": -122.14984899999999,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527529,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250512-D-ASA-1235",
+    "sfomuseum:flight_number": [
+      "ASA1235",
+      "AS1235"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1747153616,
+    "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964537555,
+        "flight_id": 1964537555
+      }
+    ],
+    "wof:id": 1964537555,
+    "wof:involves": [
+      102527529,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1747153616,
+    "wof:name": "AS1235 (SFO-SJC)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.363728,
+    -121.928755,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-121.928755,37.363728]],"type":"MultiPoint"}
+}
