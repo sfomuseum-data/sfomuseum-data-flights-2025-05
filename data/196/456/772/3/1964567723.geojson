@@ -1,0 +1,72 @@
+{
+  "id": 1964567723,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-15",
+    "date:inception_upper": "2025-05-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-05-15",
+    "flysfo:estimated_timestamp": 1747368600,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8268",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CLE",
+    "flysfo:scheduled_timestamp": 1747368600,
+    "flysfo:timestamp": 1747368600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
+    "geom:latitude": 39.512417,
+    "geom:longitude": -102.103286,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102534019,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250515-D-UAL-8268",
+    "sfomuseum:flight_number": [
+      "UAL8268",
+      "UA8268"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1747413502,
+    "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964567723,
+        "flight_id": 1964567723
+      }
+    ],
+    "wof:id": 1964567723,
+    "wof:involves": [
+      102534019,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1747413502,
+    "wof:name": "UA8268 (SFO-CLE)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -81.835629,
+    41.406844
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.835629,41.406844]],"type":"MultiPoint"}
+}
