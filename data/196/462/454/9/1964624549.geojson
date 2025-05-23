@@ -2,10 +2,12 @@
   "id": 1964624549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-22",
+    "date:cessation_upper": "2025-05-22",
     "date:inception_lower": "2025-05-22",
     "date:inception_upper": "2025-05-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-22",
+    "edtf:cessation": "2025-05-22T07:18:49-07:00",
+    "edtf:inception": "2025-05-22T10:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:date": "2025-05-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.781954,
     "geom:longitude": -57.5518295,
     "iata:airline": "DE",
+    "icao:aircraft": "A339",
     "icao:airline": "CFG",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1393786509,
     "sfomuseum:airline_id": 1159284193,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102549057,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "DANRL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "100822469"
+    },
     "wof:country": "US",
     "wof:created": 1748016548,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1964624549,
     "wof:involves": [
+      1947304079,
+      1393786509,
       102527513,
       102549057,
-      1159284193,
-      1947304079
+      1159284193
     ],
-    "wof:lastmodified": 1748016548,
+    "wof:lastmodified": 1748018447,
     "wof:name": "DE2096 (FRA-SFO)",
     "wof:parent_id": 1947304079,
     "wof:placetype": "custom",
