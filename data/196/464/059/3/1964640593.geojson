@@ -2,10 +2,12 @@
   "id": 1964640593,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-05-23",
-    "date:inception_upper": "2025-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-23",
+    "date:cessation_lower": "2025-05-24",
+    "date:cessation_upper": "2025-05-24",
+    "date:inception_lower": "2025-05-24",
+    "date:inception_upper": "2025-05-24",
+    "edtf:cessation": "2025-05-24T12:08:22Z",
+    "edtf:inception": "2025-05-23T17:16:31-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-05-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 27.578545499999997,
     "geom:longitude": -105.33957000000001,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102547571,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37365",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO13617700"
+    },
     "wof:country": "US",
     "wof:created": 1748104574,
     "wof:geomhash": "4a876dd3ad08c494785e8251f86cab8b",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1964640593,
     "wof:involves": [
+      1528104575,
       102547571,
       102527513,
       1159285413,
       1947304131
     ],
-    "wof:lastmodified": 1748104574,
+    "wof:lastmodified": 1748104797,
     "wof:name": "UA2851 (SFO-BZE)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",
