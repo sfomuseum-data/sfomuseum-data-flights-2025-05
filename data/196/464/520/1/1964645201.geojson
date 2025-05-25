@@ -2,10 +2,12 @@
   "id": 1964645201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-24",
+    "date:cessation_upper": "2025-05-24",
     "date:inception_lower": "2025-05-24",
     "date:inception_upper": "2025-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-24",
+    "edtf:cessation": "2025-05-24T17:23:00Z",
+    "edtf:inception": "2025-05-24T06:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.5509395,
     "geom:longitude": 11.213139500000004,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102535777,
@@ -48,6 +52,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101001558",
+      "swim:gufi": "KO56655700"
+    },
     "wof:country": "US",
     "wof:created": 1748189847,
     "wof:geomhash": "cfb34c2f58cdf1c02ffeb00ec136aa4c",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1964645201,
     "wof:involves": [
+      1159289985,
       102527513,
       102535777,
       1159285413,
       1947304155
     ],
-    "wof:lastmodified": 1748189847,
+    "wof:lastmodified": 1748191238,
     "wof:name": "UA3921 (GUM-SFO)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

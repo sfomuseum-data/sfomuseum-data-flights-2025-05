@@ -2,10 +2,12 @@
   "id": 1964647797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-25",
+    "date:cessation_upper": "2025-05-25",
     "date:inception_lower": "2025-05-24",
     "date:inception_upper": "2025-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-24",
+    "edtf:cessation": "2025-05-25T11:01:00Z",
+    "edtf:inception": "2025-05-24T16:05:20-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20250524-D-AMX-4128",
@@ -39,7 +43,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N171DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "101002030",
+      "swim:gufi": "KO17761101"
+    },
     "wof:country": "US",
     "wof:created": 1748190554,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -51,13 +65,13 @@
     ],
     "wof:id": 1964647797,
     "wof:involves": [
-      102534365,
       102527513,
       1159284261,
-      -1,
-      1159283539
+      1159283539,
+      1159289965,
+      102534365
     ],
-    "wof:lastmodified": 1748190554,
+    "wof:lastmodified": 1748191229,
     "wof:name": "DL637 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

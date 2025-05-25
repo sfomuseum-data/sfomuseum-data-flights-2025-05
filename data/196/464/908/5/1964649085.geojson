@@ -2,10 +2,12 @@
   "id": 1964649085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-25",
+    "date:cessation_upper": "2025-05-25",
     "date:inception_lower": "2025-05-24",
     "date:inception_upper": "2025-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-24",
+    "edtf:cessation": "2025-05-25T00:01:15Z",
+    "edtf:inception": "2025-05-24T23:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2025-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N8624J",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101067819",
+      "swim:gufi": "KO74331700"
+    },
     "wof:country": "US",
     "wof:created": 1748190877,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1964649085,
     "wof:involves": [
+      1159289871,
       102527209,
       102527513,
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1748190877,
+    "wof:lastmodified": 1748191232,
     "wof:name": "WN4249 (SFO-LAS)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

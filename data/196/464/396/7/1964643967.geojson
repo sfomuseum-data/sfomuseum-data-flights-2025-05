@@ -2,10 +2,12 @@
   "id": 1964643967,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-25",
+    "date:cessation_upper": "2025-05-25",
     "date:inception_lower": "2025-05-24",
     "date:inception_upper": "2025-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-24",
+    "edtf:cessation": "2025-05-25T00:02:17Z",
+    "edtf:inception": "2025-05-24T12:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:date": "2025-05-24",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101092628"
+    },
     "wof:country": "US",
     "wof:created": 1748189542,
     "wof:geomhash": "7a64189ee84e1d057c670ad6a60700c7",
@@ -88,7 +93,7 @@
       1159284511,
       1947304075
     ],
-    "wof:lastmodified": 1748189542,
+    "wof:lastmodified": 1748191219,
     "wof:name": "IB2621 (BCN-SFO)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",

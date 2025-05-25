@@ -2,10 +2,12 @@
   "id": 1964645053,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-24",
+    "date:cessation_upper": "2025-05-24",
     "date:inception_lower": "2025-05-24",
     "date:inception_upper": "2025-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-24",
+    "edtf:cessation": "2025-05-24T04:20:08-07:00",
+    "edtf:inception": "2025-05-24T17:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250524-A-ACA-3340",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N429UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101037120",
+      "swim:gufi": "KS50978700"
+    },
     "wof:country": "US",
     "wof:created": 1748189810,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -92,9 +106,10 @@
       102532251,
       1159285413,
       1947304603,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1748189810,
+    "wof:lastmodified": 1748191222,
     "wof:name": "UA1998 (PDX-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",
