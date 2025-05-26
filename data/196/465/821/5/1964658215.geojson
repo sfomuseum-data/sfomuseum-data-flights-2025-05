@@ -2,10 +2,12 @@
   "id": 1964658215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-25",
+    "date:cessation_upper": "2025-05-25",
     "date:inception_lower": "2025-05-25",
     "date:inception_upper": "2025-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-25",
+    "edtf:cessation": "2025-05-25T10:58:41Z",
+    "edtf:inception": "2025-05-25T06:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20250525-D-ANZ-9000",
@@ -53,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101083597",
+      "swim:gufi": "KO11738100"
+    },
     "wof:country": "US",
     "wof:created": 1748277243,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1964658215,
     "wof:involves": [
+      1947304453,
+      1159283697,
+      1159289871,
       102526927,
       102527513,
-      1159285413,
-      1947304453,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1748277243,
+    "wof:lastmodified": 1748277533,
     "wof:name": "UA1083 (SFO-ATL)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

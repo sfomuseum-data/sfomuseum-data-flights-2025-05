@@ -2,10 +2,12 @@
   "id": 1964654309,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-05-25",
-    "date:inception_upper": "2025-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-25",
+    "date:cessation_lower": "2025-05-26",
+    "date:cessation_upper": "2025-05-26",
+    "date:inception_lower": "2025-05-26",
+    "date:inception_upper": "2025-05-26",
+    "edtf:cessation": "2025-05-25T20:01:45-07:00",
+    "edtf:inception": "2025-05-26T05:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250525-A-ACA-3519",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N212UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101078507",
+      "swim:gufi": "KO30788200"
+    },
     "wof:country": "US",
     "wof:created": 1748276293,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1964654309,
     "wof:involves": [
-      102527513,
-      102533997,
       1159285413,
       1947304459,
-      1159283597
+      1159283597,
+      1159289985,
+      102527513,
+      102533997
     ],
-    "wof:lastmodified": 1748276293,
+    "wof:lastmodified": 1748277526,
     "wof:name": "UA650 (HNL-SFO)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

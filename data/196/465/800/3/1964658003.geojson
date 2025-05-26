@@ -2,10 +2,12 @@
   "id": 1964658003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-26",
+    "date:cessation_upper": "2025-05-26",
     "date:inception_lower": "2025-05-25",
     "date:inception_upper": "2025-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-25",
+    "edtf:cessation": "2025-05-26T03:16:00Z",
+    "edtf:inception": "2025-05-25T11:55:13-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2025-05-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8875B",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO00708200"
+    },
     "wof:country": "US",
     "wof:created": 1748277188,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 1964658003,
     "wof:involves": [
+      1528104575,
       102526751,
       102527513,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1748277188,
+    "wof:lastmodified": 1748277532,
     "wof:name": "WN8508 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
