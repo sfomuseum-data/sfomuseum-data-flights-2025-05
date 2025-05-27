@@ -2,10 +2,12 @@
   "id": 1964667643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-27",
+    "date:cessation_upper": "2025-05-27",
     "date:inception_lower": "2025-05-26",
     "date:inception_upper": "2025-05-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-26",
+    "edtf:cessation": "2025-05-27T09:58:00Z",
+    "edtf:inception": "2025-05-26T16:58:56-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20250526-D-AAR-6313",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N14237",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO15892300"
+    },
     "wof:country": "US",
     "wof:created": 1748363784,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1964667643,
     "wof:involves": [
+      1947304487,
+      1159283917,
+      1159289871,
       102528541,
       102527513,
-      1159285413,
-      1947304487,
-      1159283917
+      1159285413
     ],
-    "wof:lastmodified": 1748363784,
+    "wof:lastmodified": 1748364056,
     "wof:name": "UA1944 (SFO-DFW)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

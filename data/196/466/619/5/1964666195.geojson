@@ -2,10 +2,12 @@
   "id": 1964666195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-26",
+    "date:cessation_upper": "2025-05-26",
     "date:inception_lower": "2025-05-26",
     "date:inception_upper": "2025-05-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-26",
+    "edtf:cessation": "2025-05-26T18:13:00Z",
+    "edtf:inception": "2025-05-26T16:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2025-05-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "F9",
+    "icao:aircraft": "A21N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "101182509"
+    },
     "wof:country": "US",
     "wof:created": 1748363422,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -46,12 +56,12 @@
     ],
     "wof:id": 1964666195,
     "wof:involves": [
-      102528997,
-      102527513,
       1159284401,
-      -1
+      1377564297,
+      102528997,
+      102527513
     ],
-    "wof:lastmodified": 1748363422,
+    "wof:lastmodified": 1748364054,
     "wof:name": "F94306 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1964667767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-26",
+    "date:cessation_upper": "2025-05-26",
     "date:inception_lower": "2025-05-26",
     "date:inception_upper": "2025-05-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-26",
+    "edtf:cessation": "2025-05-26T22:29:07Z",
+    "edtf:inception": "2025-05-26T21:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20250526-D-CCA-7321",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17401",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101204248",
+      "swim:gufi": "KO69864200"
+    },
     "wof:country": "US",
     "wof:created": 1748363814,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1964667767,
     "wof:involves": [
+      1528104577,
       102533795,
       102527513,
       1159285413,
       1947304515,
       1159283605
     ],
-    "wof:lastmodified": 1748363814,
+    "wof:lastmodified": 1748364057,
     "wof:name": "UA2740 (SFO-LAX)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
