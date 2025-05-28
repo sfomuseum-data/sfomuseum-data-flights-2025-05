@@ -1,0 +1,72 @@
+{
+  "id": 1964673541,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-27",
+    "date:inception_upper": "2025-05-27",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-27",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2025-05-27",
+    "flysfo:estimated_timestamp": 1748365200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA499",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MTY",
+    "flysfo:scheduled_timestamp": 1748365200,
+    "flysfo:timestamp": 1748365200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.780084,-100.114904,37.617990",
+    "geom:latitude": 31.699036999999997,
+    "geom:longitude": -111.24292349999999,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102536351,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250527-D-AAL-499",
+    "sfomuseum:flight_number": [
+      "AAL499",
+      "AA499"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1748449316,
+    "wof:geomhash": "48153b691162a6beee6fa4d9e191993e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964673541,
+        "flight_id": 1964673541
+      }
+    ],
+    "wof:id": 1964673541,
+    "wof:involves": [
+      102536351,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1748449316,
+    "wof:name": "AA499 (SFO-MTY)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.780084,
+    -100.114904,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-100.114904,25.780084]],"type":"MultiPoint"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1964673437,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-27",
+    "date:inception_upper": "2025-05-27",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-27",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WS",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4510",
+    "flysfo:date": "2025-05-27",
+    "flysfo:estimated_timestamp": 1748330820,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WS5441",
+    "flysfo:gate": "C10",
+    "flysfo:journey": "SLC-SFO",
+    "flysfo:scheduled_timestamp": 1748330460,
+    "flysfo:timestamp": 1748330820,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
+    "iata:airline": "WS",
+    "iata:base_airline": "",
+    "icao:airline": "WJA",
+    "icao:base_airline": "VIR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285523,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20250527-A-VIR-4510",
+    "sfomuseum:departure_id": 102527363,
+    "sfomuseum:flight_id": "20250527-A-WJA-5441",
+    "sfomuseum:flight_number": [
+      "WJA5441",
+      "WS5441"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1748449290,
+    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964673437,
+        "flight_id": 1964673437
+      }
+    ],
+    "wof:id": 1964673437,
+    "wof:involves": [
+      102527513,
+      102527363,
+      1159285523,
+      1947304673,
+      1159285483
+    ],
+    "wof:lastmodified": 1748449290,
+    "wof:name": "WS5441 (SLC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -111.980566,
+    40.78217
+  ],
+  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

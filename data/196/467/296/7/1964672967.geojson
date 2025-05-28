@@ -1,0 +1,72 @@
+{
+  "id": 1964672967,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-05-27",
+    "date:inception_upper": "2025-05-27",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-05-27",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-05-27",
+    "flysfo:estimated_timestamp": 1748374200,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8180",
+    "flysfo:gate": "",
+    "flysfo:journey": "SAT-SFO",
+    "flysfo:scheduled_timestamp": 1748373480,
+    "flysfo:timestamp": 1748374200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.534838,-98.472784,37.617990",
+    "geom:latitude": 33.576414,
+    "geom:longitude": -110.4218635,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527373,
+    "sfomuseum:flight_id": "20250527-A-UAL-8180",
+    "sfomuseum:flight_number": [
+      "UAL8180",
+      "UA8180"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1748449170,
+    "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1964672967,
+        "flight_id": 1964672967
+      }
+    ],
+    "wof:id": 1964672967,
+    "wof:involves": [
+      102527513,
+      102527373,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1748449170,
+    "wof:name": "UA8180 (SAT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    29.534838,
+    -98.472784,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-98.472784,29.534838],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
