@@ -2,10 +2,12 @@
   "id": 1964672967,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-27",
+    "date:cessation_upper": "2025-05-27",
     "date:inception_lower": "2025-05-27",
     "date:inception_upper": "2025-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-27",
+    "edtf:cessation": "2025-05-27T19:26:29Z",
+    "edtf:inception": "2025-05-27T16:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.576414,
     "geom:longitude": -110.4218635,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527373,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N467UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "101231336",
+      "swim:gufi": "KH47070300"
+    },
     "wof:country": "US",
     "wof:created": 1748449170,
     "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1964672967,
     "wof:involves": [
+      1159292085,
       102527513,
       102527373,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1748449170,
+    "wof:lastmodified": 1748450442,
     "wof:name": "UA8180 (SAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

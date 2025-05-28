@@ -2,10 +2,12 @@
   "id": 1964672645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-27",
+    "date:cessation_upper": "2025-05-27",
     "date:inception_lower": "2025-05-27",
     "date:inception_upper": "2025-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-27",
+    "edtf:cessation": "2025-05-27T08:02:44-07:00",
+    "edtf:inception": "2025-05-27T17:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555091,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N47282",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +58,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101298717",
+      "swim:gufi": "KP47149300"
+    },
     "wof:country": "US",
     "wof:created": 1748449092,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -86,9 +100,10 @@
       102527513,
       102555091,
       1159285413,
-      1947304453
+      1947304453,
+      1528104575
     ],
-    "wof:lastmodified": 1748449092,
+    "wof:lastmodified": 1748450440,
     "wof:name": "UA3014 (YYZ-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",
