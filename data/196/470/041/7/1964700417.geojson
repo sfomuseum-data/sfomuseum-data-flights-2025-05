@@ -2,10 +2,12 @@
   "id": 1964700417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-30",
+    "date:cessation_upper": "2025-05-30",
     "date:inception_lower": "2025-05-30",
     "date:inception_upper": "2025-05-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-30",
+    "edtf:cessation": "2025-05-30T23:37:10Z",
+    "edtf:inception": "2025-05-30T21:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250530-A-ACA-4210",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101540348",
+      "swim:gufi": "KS74967600"
+    },
     "wof:country": "US",
     "wof:created": 1748708258,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1964700417,
     "wof:involves": [
+      1159289871,
       102527513,
       102554947,
       1159285413,
       1947304525,
       1159283597
     ],
-    "wof:lastmodified": 1748708258,
+    "wof:lastmodified": 1748709596,
     "wof:name": "UA2409 (YYC-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

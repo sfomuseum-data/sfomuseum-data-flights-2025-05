@@ -2,10 +2,12 @@
   "id": 1964701909,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-05-30",
+    "date:cessation_upper": "2025-05-30",
     "date:inception_lower": "2025-05-30",
     "date:inception_upper": "2025-05-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-05-30",
+    "edtf:cessation": "2025-05-30T22:30:00Z",
+    "edtf:inception": "2025-05-30T17:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2025-05-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CFSEQ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101560580",
+      "swim:gufi": "KO50086600"
+    },
     "wof:country": "US",
     "wof:created": 1748708617,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1964701909,
     "wof:involves": [
-      102555091,
       102527513,
       1159283597,
-      1947304627
+      1947304627,
+      1528104575,
+      102555091
     ],
-    "wof:lastmodified": 1748708617,
+    "wof:lastmodified": 1748709622,
     "wof:name": "AC7071 (SFO-YYZ)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",
